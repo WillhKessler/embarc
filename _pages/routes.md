@@ -11,7 +11,7 @@ The following is a a collection of cycling routes in and around the Greater Bost
 ## Routes
 <iframe
 src="https://ridewithgps.com/collections/2451753"
-width="1000" 
+width="100%" 
 height="1000">
   
 </iframe>
