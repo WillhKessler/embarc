@@ -27,14 +27,14 @@ feature_row:
     alt: "Camping Resources Image"
     title: "New England Public Camping Resources"
     excerpt: "Camping in New England is difficult. Here is a collection of resources to find public camping options for self-contained travelers"
-    url: "/projects/geo-enabled-elections/"
+    url: "/camping/"
     btn_label: "View Resources"
     btn_class: "btn--primary"
   - image_path: /assets/images/project3.jpg
     alt: "Advocacy Image"
     title: "Advocating for Outdoor resources in New England"
     excerpt: "The only way we can make cycling and camping more accessible is to ask."
-    url: "/projects/lidar-platform/"
+    url: "/advocacy/"
     btn_label: "How can I get Involved"
     btn_class: "btn--primary"
 ---
