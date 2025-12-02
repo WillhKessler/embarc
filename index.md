@@ -1,15 +1,15 @@
 ---
 layout: splash
 classes: wide
-title: "Eastern Massachusetts Bikepacking Adventure Riding Collective"
+title: "Eastern Massachusetts Backcountry Adventure Riding Collective "
 header:  
   overlay_filter: "0.3"
   overlay_image: /assets/images/hero_map.jpg
   actions:
-    - label: "View Projects"
-      url: "/portfolio/projects/"
-    - label: "View CV"
-      url: "/portfolio/about/"
+    - label: "View Routes"
+      url: "/routes/"
+    - label: "About"
+      url: "/about/"
 #author_profile: true
 excerpt: "Geospatial Data Wrangling • Geospatial Analysis • Cartography • Health Geography Research"
 intro: 
