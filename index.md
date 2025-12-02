@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: "Eastern Massachusetts Backcountry Adventure Riding Collective "
+title: "Eastern Massachusetts Backcountry Adventure Riding Collective"
 header:  
   overlay_filter: "0.3"
   overlay_image: /assets/images/hero_map.jpg
@@ -11,7 +11,7 @@ header:
     - label: "About"
       url: "/about/"
 #author_profile: true
-excerpt: "Geospatial Data Wrangling • Geospatial Analysis • Cartography • Health Geography Research"
+excerpt: "Bikepacking • Dirt-road Touring • Gravel Cycling"
 intro: 
   - excerpt: >
      Put in a blurb about bikepacking and adventure cycling in Eastern MA here. 
@@ -44,12 +44,7 @@ feature_row:
 
 ## About
 
-My professional work has spanned ecological niche modeling, public health GIS, geospatial infrastructure development, and state geospatial data governance.
-With academic training in **geography, biology/ecology, and spatial data science**, I have contributed to projects on **climate-health interactions,  vector-borne disease modeling, and spatial epidemiology**, 
-and have co-authored several peer-reviewed studies on these topics.
-
-My approach emphasizes **reproducibility, computational efficiency, and clear visual communication** of spatial data.  
-I am particularly interested in how cartographic design and geospatial computation can jointly inform environmental and health policy.
+Organizing resources for the bikepacking community of Eastern Massachusetts
 
 [Read more →](/about/)
 
