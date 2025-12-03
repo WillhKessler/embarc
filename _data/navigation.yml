@@ -3,6 +3,10 @@ main:
     url: /about/
   - title: "Routes"
     url: /routes/
+  - title: "Advocacy"
+    url: /advocacy/
+  - title: "Organizations"
+    url: /organizations/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
