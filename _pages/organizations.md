@@ -29,6 +29,6 @@ feature_row:
 
 Other Organizations we recommend:
 
-##Bikepacking Roots
-##Adventure Cycling Association
+## Bikepacking Roots
+## Adventure Cycling Association
 
