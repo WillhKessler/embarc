@@ -4,7 +4,7 @@ layout: splash
 permalink: /organizations/
 classes: wide
 organization_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: https://www.adventurecycling.org/wp-content/uploads/2023/04/web_2-color_stacked.png
     alt: "placeholder image 1"
     title: "Adventure Cycling Association"
     excerpt: "Adventure Cycling Association inspires, empowers, and connects people to travel by bicycle."
