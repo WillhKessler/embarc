@@ -14,7 +14,7 @@ header:
 excerpt: "Bikepacking • Dirt-road Touring • Gravel Cycling"
 intro: 
   - excerpt: >
-     Put in a blurb about bikepacking and adventure cycling in Eastern MA here. 
+     Organizing resources for the bikepacking community of Eastern Massachusetts 
 feature_row:
   - image_path: /assets/images/EasternMA_routes.png
     alt: "Ride With GPS Route Collection"
@@ -42,19 +42,6 @@ feature_row:
 
 {% include feature_row %}
 
-## About
-
-Organizing resources for the bikepacking community of Eastern Massachusetts
-
-[Read more →](/about/)
-
----
-
-## Another subsection Here.
-
-
-
----
 
 ## Contact
 
