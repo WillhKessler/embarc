@@ -12,7 +12,7 @@ organization_row:
     alt: "placeholder image 2"
     title: "Bikepacking Roots"
     excerpt: "Bikepacking Roots supports and advances bikepacking."
-    url: "[#bikepacking-roots](https://github.com/WillhKessler/embarc/blob/master/_pages/organizations.md#adventure-cycling-association)"
+    url: "organizations/#adventure-cycling-association"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
@@ -26,7 +26,7 @@ organization_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
-# Other Organisations
+# Other Organizations
 {% include feature_row id="organization_row" %}
 
 
