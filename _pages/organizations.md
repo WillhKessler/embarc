@@ -12,7 +12,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Bikepacking Roots"
     excerpt: "Bikepacking Roots supports and advances bikepacking."
-    URL: "orgnaizations#bikepacking-roots"
+    URL: "# bikepacking-roots"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
@@ -23,7 +23,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
-#Other Organizations
+# Other Organizations
 {% include feature_row %}
 
 
