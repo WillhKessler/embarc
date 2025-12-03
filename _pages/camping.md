@@ -2,7 +2,7 @@
 title: "Camping"
 layout: single
 permalink: /camping/
-classes: wide
+classes: single
 toc: true
 ---
 # Where to go camping
