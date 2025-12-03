@@ -16,7 +16,7 @@ intro:
   - excerpt: >
      Put in a blurb about bikepacking and adventure cycling in Eastern MA here. 
 feature_row:
-  - image_path: /assets/images/project1.jpg
+  - image_path: /assets/images/EasternMA_routes.png
     alt: "Ride With GPS Route Collection"
     title: "Eastern MA Bikepacking Routes"
     excerpt: "There are hidden gems right out your back door"
