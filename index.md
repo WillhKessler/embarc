@@ -4,7 +4,7 @@ classes: wide
 title: "Eastern Massachusetts Backcountry Adventure Riding Collective"
 header:  
   overlay_filter: "0.3"
-  overlay_image: assets/images/sunsetriding.JPG
+  overlay_image: assets/images/sunset_bike.JPG
   actions:
     - label: "View Routes"
       url: "/routes/"
@@ -30,7 +30,7 @@ feature_row:
     url: "/camping/"
     btn_label: "View Resources"
     btn_class: "btn--primary"
-  - image_path: /assets/images/project3.jpg
+  - image_path: /assets/images/bpr_cyclistriding.jpg
     alt: "Advocacy Image"
     title: "Advocating for Outdoor resources in New England"
     excerpt: "The only way we can make cycling and camping more accessible is to ask."
