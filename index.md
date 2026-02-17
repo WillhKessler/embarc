@@ -46,8 +46,5 @@ feature_row:
 ## Contact
 Have feedback or are interested in getting involved? 
 Drop us a message to get added to the Boston Bikepacking Community WhatsApp Group! 
-
-📧 **[willhkessler@gmail.com](mailto:willhkessler@gmail.com)**  
-🔗 [GitHub](https://github.com/YOURUSERNAME)
-· [LinkedIn](https://linkedin.com/in/YOURPROFILE)
+📧 **[Contact Us](mailto:willhkessler+mbarc@gmail.com)**  
 
