@@ -17,8 +17,8 @@ height="800">
 </iframe>
 
 ## Connecticut
-### Connecticut DEER properties:
 <iframe src="https://ridewithgps.com/embeds?type=route&id=53292964&hideSurface=true" style="width: 1px; min-width: 100%; height: 550px; border: none;" scrolling="no"></iframe>
+### Connecticut DEER properties:
 
 Connecticut has a standing 'No Turn Away' policy for hikers and bikers at DEER campgrounds (state parks/forest campgrounds). A standard CG fee of $14.00 applies. The standing policy is not intended for visitors PLANNING thru hiking or biking trips – they can and should make a reservation, or take advantage of free backpacking sites for thru hikers at some DEER campgrounds. I believe that most people who utilize this policy need a place to stop to sleep for safety reasons, which is why it’s limited to visitors from out-of-state and considered an ‘emergency need’. In emergencies, you/other backpackers would not be turned away from a state campground. However, if it is not an emergency, and you live within 50 miles of the current location, you would be asked to arrange transportation back home.
 <object data="../assets/images/CT_DEERPolicy_Procedure 406_Camping - Emergency Stopovers.pdf" width="100" height="80" type='application/pdf'></object>
