@@ -32,7 +32,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/bpr_cyclistriding.jpg
     alt: "Advocacy Image"
-    title: "Advocating for Outdoor resources in New England"
+    title: "Advocating for Outdoor Resources in New England"
     excerpt: "The only way we can make cycling and camping more accessible is to ask."
     url: "/advocacy/"
     btn_label: "How can I get Involved"
