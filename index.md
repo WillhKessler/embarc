@@ -18,7 +18,7 @@ intro:
 feature_row:
   - image_path: /assets/images/EasternMA_routes.png
     alt: "Ride With GPS Route Collection"
-    title: "Massachusetts Bikepacking Routes"
+    title: "New England Bikepacking Routes"
     excerpt: "There are hidden gems right out your back door"
     url: "/routes/"
     btn_label: "View Routes"
