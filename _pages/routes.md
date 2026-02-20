@@ -10,7 +10,7 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
 
 ## Overnighters and Multi-day Bikepacking Routes
 
-<div class="vertical-scroll-table" style="height: 300px; overflow-y: auto;">
+
   
 |Route|Description|
 | ----- | ----------- |
@@ -19,7 +19,7 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
 | [Bos/treal, Boston Cyclist Union](https://bostoncyclistsunion.org/bostreal) | A 400 mile adventure from Boston to Montreal (take the Amtrak back for a car-free adventure!)|
 | [Mud Pie and Ice Cream Float, Bikepacking Roots](https://bikepackingroots.org/project/sundaes-fundays-ice-cream-float/) | Peri-urban overnighters accessible via public transit on the MBTA. Routes utilize significant rail trail and short sections of singletrack. Short but challenging options for beginners.|
 
-</div>
+
 
 <iframe
 src="https://ridewithgps.com/collections/8219851"
