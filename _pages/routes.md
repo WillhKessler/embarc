@@ -10,7 +10,7 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
 
 ## Overnighters and Multi-day Bikepacking Routes
 
-<div class="scroll-table">
+<div class="vertical-scroll-table" style="height: 300px; overflow-y: auto;">
   
 |Route|Description|
 | ----- | ----------- |
