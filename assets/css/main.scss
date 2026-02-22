@@ -11,7 +11,7 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 .vertical-scroll-table {
-  max-height: 300px; /* Limits the visible height */
+  max-height: 50px; /* Limits the visible height */
   overflow-y: auto; /* Adds a vertical scrollbar if needed */
   display: block; /* Required for some table display settings */
 }
