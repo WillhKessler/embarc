@@ -10,8 +10,6 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
 
 ## Overnighters and Multi-day Bikepacking Routes
 
-
-<div class="vertical-scroll-table">
   
 |Route|Description|
 | ----- | ----------- |
@@ -19,8 +17,6 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
 | [New England's Backyard, Urban Dirt](https://www.urbandirt.org/routes/new-englands-backyard) | Approximately 450 miles through central MA, CT and RI. The route was originally devised as a creditcard tour, but the mapping provided here lists possible camping options.|
 | [Bos/treal, Boston Cyclist Union](https://bostoncyclistsunion.org/bostreal) | A 400 mile adventure from Boston to Montreal (take the Amtrak back for a car-free adventure!)|
 | [Mud Pie and Ice Cream Float, Bikepacking Roots](https://bikepackingroots.org/project/sundaes-fundays-ice-cream-float/) | Peri-urban overnighters accessible via public transit on the MBTA. Routes utilize significant rail trail and short sections of singletrack. Short but challenging options for beginners.|
-
-</div>
 
 <iframe
 src="https://ridewithgps.com/collections/8219851"
