@@ -9,7 +9,7 @@ permalink: /routes/
 The bikepacking and gravel cycling routes highlighted here range from well-known, popular routes that are published and maintained by other organizations, to some lesser known tracks extracted from deep within forgotten cycling forums, or devised by our contributors. For popular routes stewarded by organizations like Vermont Bikepackers, Bikepacking.com, Bikepacking Roots, or Adventure Cycling Association, links and recognition to the originating organization are provided. Please refer to these sites for the most up-to-date information, questions, etc. The routes highlighted here emphasize unpaved, trail, and car-free adventures.
 
 ## Overnighters and Multi-day Bikepacking Routes
-<div class="vertical-scroll-table">
+<div class="vertical-scroll-table", markdown="1">
   
 |Route|Description|
 | ----- | ----------- |
