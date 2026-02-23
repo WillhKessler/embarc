@@ -4,7 +4,7 @@ search: false
 ---
 
 .vertical-scroll-table {
-  height: 200px; /* Limits the visible height */
+  height: 300px; /* Limits the visible height */
   overflow-y: auto; /* Adds a vertical scrollbar if needed */
   display: block; /* Required for some table display settings */
 }
