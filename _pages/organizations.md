@@ -31,6 +31,12 @@ organization_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Packraft Maine"
+    excerpt: "Bikerafting and packrafting trips across Maine"
+    url: "organizations/#packraft-me"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Adirondacks Bikepacking"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "organizations/#adirondacks-bikepacking"
@@ -83,8 +89,15 @@ Adventure Rideworks is built by cyclists who ride everything - dirt roads, tarma
 * Bag rentals
 * Route Design
 * Trip logistics planning
-
 [More Information](https://www.adventurerideworks.com/){:target="_blank" rel="noopener"}
+
+# Packraft Maine
+An adventure guiding company focusing on packrafting and bikerafting trips. 
+* packraft and bikeraft workshops
+* custom trips and guided adventures
+* Trip logistics and planning
+
+[More Information](https://www.packraftme.com/contact){:target="_blank" rel="noopener"}
 
 
 
