@@ -27,8 +27,7 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
 
 <iframe 
   src="https://ridewithgps.com/embeds?type=collection&collectionId=8219851&sampleGraph=true&hideSurface=true&defaultShowAll=true" 
-  width= "1px" 
-  min-width= "100%" 
+  width= "100%" 
   height= "700px"
   border= "none" 
   scrolling="no">
