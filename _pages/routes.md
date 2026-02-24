@@ -30,7 +30,7 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
   width= "100%" 
   height= "700px"
   border= "none" 
-  scrolling="no">
+  scrolling="yes">
 </iframe>
 
 ## Bikepacking Routes Under Development
