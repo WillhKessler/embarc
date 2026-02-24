@@ -8,13 +8,9 @@ toc: true
 
 # Where to camp
 
-The RideWithGPS collection below includes route layers for each New England state denoting POI markers of public camping locations and required permits and/or reservation links. Add one or more of these layers to a RideWithGPS route to add the included POIs to your route.  
+The RideWithGPS collection below includes route layers for each New England state, denoting POI markers of public camping locations and required permits and/or reservation links. Add one or more of these layers to a RideWithGPS route to add the included POIs to your route.  
 [View this collection directly](https://ridewithgps.com/collections/2658908)
-<iframe
-src="https://ridewithgps.com/collections/2658908"
-width="100%" 
-height="800"> 
-</iframe>
+<iframe src="https://ridewithgps.com/embeds?type=collection&collectionId=2658908&hideSurface=true&defaultShowAll=true" style="width: 1px; min-width: 100%; height: 550px; border: none;" scrolling="no"></iframe>
 
 ## Connecticut
 <iframe src="https://ridewithgps.com/embeds?type=route&id=53292964&hideSurface=true" style="width: 1px; min-width: 100%; height: 550px; border: none;" scrolling="no"></iframe>
