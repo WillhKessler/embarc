@@ -15,8 +15,12 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
 | ----- | ----------- |
 | [The Bay Circuit Trail, The AMC](https://www.baycircuit.org/) | Approximately 200 miles circumnavigating Greater Boston, camping options on route are limited, but creditcard touring is a viable option.|
 | [New England's Backyard, Urban Dirt](https://www.urbandirt.org/routes/new-englands-backyard) | Approximately 450 miles through central MA, CT and RI. The route was originally devised as a creditcard tour, but the mapping provided here lists possible camping options.|
-| [Bos/treal, Boston Cyclist Union](https://bostoncyclistsunion.org/bostreal) | A 400 mile adventure from Boston to Montreal (take the Amtrak back for a car-free adventure!)|
+| [Vermont Super 8, Vermont Bikepackers](https://www.vermontbikepackers.org/gd) | New England's most popular 'Grand Depart' style bikepacking adventure. Features some of Vermont's most rugged 'Class IV roads. Ride the 650+ mile full 8, the 275 mile North Lobe, or the 380 mile South Lobe.  |
+| [Bos/treal, Boston Cyclist Union](https://bostoncyclistsunion.org/bostreal) | 400 miles of international fun from Boston to Montreal. Ridden annually as a weeklong tour and fundraiser for Boston Cyclists Union. Numerous versions exist with varying levels of dirt and difficulty, the version shown here is the "dirt" version. Take the Amtrak one-way for a car-free adventure!|
 | [Mud Pie and Ice Cream Float, Bikepacking Roots](https://bikepackingroots.org/project/sundaes-fundays-ice-cream-float/) | Peri-urban overnighters accessible via public transit on the MBTA. Routes utilize significant rail trail and short sections of singletrack. Short but challenging options for beginners.|
+| [Cross NH Adventure Trail (XNHAT), XNHAT.org](https://www.xnhat.org/) | An approximately 80 mile route across northern New Hampshire, linking together rail trails, dirt roads, bike paths, and quiet pavement. Options exist to easily link the route to extensions in Maine and Vermont. |
+| [Vermont XL (VTXL), bikepacking.com](https://bikepacking.com/routes/vtxl/) | A ribbon of continuous dirt from the Canada border south to Massachusetts. Incredible gravel riding the whole way.|
+| [The Adirondack Trail Ride (TATR), https://www.theadirondacktrailride.com/]https://www.theadirondacktrailride.com/) | Not New England, but close enough. TATR is a 585 mile adventure through the Adirondack Mountains of upstate New York. Several versions of varying difficulty exist, all are tough.|
 
 </div>
 
