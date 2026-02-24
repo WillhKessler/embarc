@@ -30,27 +30,21 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
 
 ## Bikepacking Routes Under Development
 Numerous routes are being dreamed up, planned, scouted, and refined. The following list of routes are some that we are most excited about, but haven't thoroughly vetted for rideability, safety, or legality. If you would like to help scout these routes, please reach out, and we can share the status of the route and any other information we have available. We simply ask that in return you provide some feedback about the riding experience. If you are interested in riding one of these routes, know that you do so at your own risk. 
-<iframe
-src="https://ridewithgps.com/collections/8220043"
-width="100%" 
-height="800">
-</iframe>
+
+
+<iframe src="https://ridewithgps.com/embeds?type=collection&collectionId=8220043&sampleGraph=true&defaultShowAll=true" style="width: 1px; min-width: 100%; height: 800px; border: none;" scrolling="no"></iframe>
 
 
 ## Singletrack-heavy proving grounds
-Get sendy with it. These routes are primarily singletrack. Mix and re-mix segments for a choose-your-own type adventure. Lap the technical singletrack as training for your upcoming epics like the Colorado Trail Race or Highland 550. Camping opportunities are limited to the DCR campground in Harold Parker State Forest, and a couple of private campgrounds in the vicinity.   
-<iframe
-src="https://ridewithgps.com/collections/2010165"
-width="100%" 
-height="800">
-</iframe>
+Get sendy with it. These routes are primarily singletrack. Mix and re-mix segments for a choose-your-own type adventure. Lap the technical singletrack as training for your upcoming epics like the Colorado Trail Race or Highland 550. Camping opportunities are limited to the DCR campground in Harold Parker State Forest, and a couple of private campgrounds in the vicinity.  
+
+
+<iframe src="https://ridewithgps.com/embeds?type=collection&collectionId=2010165&sampleGraph=true&hideSurface=true&defaultShowAll=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 ## Gravel-focused day rides
-<iframe
-src="https://ridewithgps.com/collections/2451753"
-width="100%" 
-height="800"> 
-</iframe>
+
+
+<iframe src="https://ridewithgps.com/embeds?type=collection&collectionId=2451753&sampleGraph=true&hideSurface=true&defaultShowAll=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 
 
