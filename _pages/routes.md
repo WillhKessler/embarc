@@ -20,7 +20,7 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
 | [Mud Pie and Ice Cream Float, Bikepacking Roots](https://bikepackingroots.org/project/sundaes-fundays-ice-cream-float/) | Peri-urban overnighters accessible via public transit on the MBTA. Routes utilize significant rail trail and short sections of singletrack. Short but challenging options for beginners.|
 | [Cross NH Adventure Trail (XNHAT), XNHAT.org](https://www.xnhat.org/) | An approximately 80 mile route across northern New Hampshire, linking together rail trails, dirt roads, bike paths, and quiet pavement. Options exist to easily link the route to extensions in Maine and Vermont. |
 | [Vermont XL (VTXL), bikepacking.com](https://bikepacking.com/routes/vtxl/) | A ribbon of continuous dirt from the Canada border south to Massachusetts. Incredible gravel riding the whole way.|
-| [The Adirondack Trail Ride (TATR), https://www.theadirondacktrailride.com/]https://www.theadirondacktrailride.com/) | Not New England, but close enough. TATR is a 585 mile adventure through the Adirondack Mountains of upstate New York. Several versions of varying difficulty exist, all are tough.|
+| [The Adirondack Trail Ride (TATR), TATR Organization ](https://www.theadirondacktrailride.com/) | Not New England, but close enough. TATR is a 585 mile adventure through the Adirondack Mountains of upstate New York. Several versions of varying difficulty exist, all are tough.|
 
 </div>
 
