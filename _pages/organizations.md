@@ -61,27 +61,37 @@ organization_row:
 
 
 # Adventure Cycling Association
+
+
 # Bikepacking Roots
+
+
 # Vermont Bikepackers
 Vermont Bikepackers is a volunteer-operated 501(c)(3) nonprofit which seeks to share bikepacking resources across Vermont. 
 
-They chart routes across the state's network of ancient unmaintained roads as well as recreational trails such as rail trails, singletrack, and town forest trails. The paths are already there -- they did not build them, but they do link them together into routes. In some cases, they are working to increase backcountry cycling access across the state. They strive to align with existing initiatives that have community support.
+They chart routes across the state's network of ancient unmaintained roads as well as recreational trails such as rail trails, singletrack, and town forest trails. The paths are already there -- they did not build them, but they do link them together into routes. In some cases, they are working to increase backcountry cycling access across the state. They strive to align with existing initiatives that have community support. Vermont bikepackers are the organizers and maintainers of the Vermont Super 8 bikepacking event, and prolific route designers across The Green Mountain State. 
 
 [More Information](https://www.vermontbikepackers.org/){:target="_blank" rel="noopener"}
 ​
 # Radical Adventure Riders
+
+
 # Adirondacks Bikepacking
+Bikepacking information for the Adirondacks region of upstate New York is loosely organized with information spread across the [r/bikepack_Adirondacks](https://www.reddit.com/r/bikepack_Adirondacks/) subreddit, the [Adirondack Bikepacking facebook page](https://www.facebook.com/groups/bikepackadk/), and [The Adirondack Trail Ride](https://www.theadirondacktrailride.com/) website. While not New England, and these resources aren't from a single organization, we thought it was valuable to include these resources here.  
+
+
 # Lichen Bike Tours
 Lichen Bike Tours offers small group guided cycling trips with overnight camping where riders are using the frame of their bicycle to carry their own shelter, sleep, and meals. LBT takes care of every detail before and during the trip so that riders can focus on enjoying the adventure with their fellow riders.
 Their 2026 season includes:
 
-    Three WEEKEND OVERNIGHTERS that are BEGINNER FRIENDLY
-    6 Days, 5 Nights of CYCLING, CAMPING & SWIMMING in the Catskill Mountains
-    One vehicle supported COMFY OVERNIGHTER with COOKED MEALS
-    Gravel + MTB Riding in the Taconic Mountains -- No Overnight Required!
-    CUSTOM PRIVATE BIKEPACKING TOURS For Hire
+* Three WEEKEND OVERNIGHTERS that are BEGINNER FRIENDLY
+* 6 Days, 5 Nights of CYCLING, CAMPING & SWIMMING in the Catskill Mountains
+* One vehicle supported COMFY OVERNIGHTER with COOKED MEALS
+* Gravel + MTB Riding in the Taconic Mountains -- No Overnight Required!
+* CUSTOM PRIVATE BIKEPACKING TOURS For Hire
 
 Trips depart from Hudson, NY which is train-accessible via Amtrak
+
 [More Information](https://www.lichenbiketours.com/){:target="_blank" rel="noopener"}
 
 # Adventure Rideworks
@@ -89,11 +99,12 @@ Adventure Rideworks is built by cyclists who ride everything - dirt roads, tarma
 * Bag rentals
 * Route Design
 * Trip logistics planning
+  
 [More Information](https://www.adventurerideworks.com/){:target="_blank" rel="noopener"}
 
 # Packraft Maine
-An adventure guiding company focusing on packrafting and bikerafting trips. 
-* packraft and bikeraft workshops
+An adventure guiding company based in Maine focusing on packrafting and bikerafting trips. Their goal is to change the way we think about and practice outdoor recreation. By combining bikepacking and packrafts you can head further afield, finding even more adventure. In 2026 they are offering:    
+* Packraft and bikeraft workshops
 * custom trips and guided adventures
 * Trip logistics and planning
 
