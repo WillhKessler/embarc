@@ -5,7 +5,7 @@ permalink: /camping/
 classes: wide
 toc: true
 ---
-
+# New England Camping Information- The Who, What, When, Where, and How
 Most bikepackers and cyclotourists would agree that camping is a crucial part of the experience. Camping keeps costs down on long trips where nightly accommodations would be prohibitively expensive, connects us with the natural environment, and frankly, it's just more fun. In the western United States, finding a place to camp is often the easy part; thanks to the widespread federal land that many popular bikepacking routes traverse, dispersed or 'wild' camping is allowed almost anywhere you can find to pitch your tent (there are obviously exceptions). In New England, and southern New England in particular, public lands where dispersed (wild) camping is permitted are few and far between. Continue reading for state-specific public camping information pertaining to bikepackers. 
 
 Broadly, US national forests and BLM lands have no blanket restrictions on dispersed camping. What this means for cyclotourists is that in these areas, you can legally camp anywhere as long as there are no forest or district-specific regulations. Bikes are **NEVER** allowed in wilderness areas, so camping in these areas on a bike trip is out of the question. Always be sure to double-check the legality of your planned camping location before you start riding. Illegal campers on public lands can be cited and fined, and trespassing on private property is even worse! While there are other federal land management agencies, the US Forest Service and BLM manage the largest areas and are the most likely cyclotourists will encounter. 
