@@ -13,12 +13,13 @@ Broadly, US national forests and BLM lands have no blanket restrictions on dispe
 ## Where to camp
 Unfortunately, New England has few national forests. The White Mountain National Forest in NH and ME, and the Green Mountain and Finger Lakes National Forests in VT are the only ones in the region but they do both allow dispersed camping! 
 
-**White Mountain National Forest General Dispersed Camping Rules:** 
+**White Mountain National Forest General Dispersed Camping Rules:**\
+Dispersed camping is allowed in the WMNF with the following exceptions. No Camping:\
   * Within 200 feet of certain trails and water bodies.
   * Within 1/4 mile of backcountry facilities (shelters, huts, and trailheads).
   * In the alpine zone - where trees are 8 feet or less (except on two feet of snow).
   * Within 1/4 mile of certain roads.
-Refer to the [WMNF Backcountry Camping Rules and Forest Protection Plan](https://www.fs.usda.gov/r09/whitemountain/recreation/camping-cabins) for specific regulations.
+Otherwise, consult the local ranger station, check signage, or refer to the [WMNF Backcountry Camping Rules and Forest Protection Plan](https://www.fs.usda.gov/r09/whitemountain/recreation/camping-cabins) for specific regulations.
 The Forest Service also has a handy [interactive viewer](https://experience.arcgis.com/experience/a695e1dbdeab4e8ba5c6ad4fd06a0ba0) showing forest boundaries, established campgrounds and other pertinent information.
 
 In addition to the legal dispersed camping in the national forests, New England states have extensive state park systems with a multitude of campgrounds, state and town forests with camping options, and some public options related to specific long-distance trails. 
