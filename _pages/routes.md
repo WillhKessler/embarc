@@ -19,12 +19,14 @@ The bikepacking and gravel cycling routes highlighted here range from well-known
 | [Cross NH Adventure Trail (XNHAT), XNHAT.org](https://www.xnhat.org/) | An approximately 80 mile route across northern New Hampshire, linking together rail trails, dirt roads, bike paths, and quiet pavement. Options exist to easily link the route to extensions in Maine and Vermont. |
 | [The Drake Passage, Bikepacking.com ](https://bikepacking.com/routes/drake-passage/) | A truly awesome overnighter in Western Massachusetts.This route has it all- rail trail, singletrack, fire roads, swimming opportunities and dispersed camping. |
 | [The Green Mountain Gravel Growler, Bikepacking.com ](https://bikepacking.com/routes/green-mountain-gravel-growler/) | Vermont farm roads, singletrack and beer. Over 250 miles of prime Vermont gravel riding.|
+| [Baxter State Park/Katahdin 360, Bikepacking.com ](https://bikepacking.com/routes/katahdin-360/) | Approximately 100 miles of solitude as you circumnavigate Mt. Katahdin and Baxter State Park in Northern Maine. A highlight is the nearly empty Katahdin Woods and Waters National Monument right next door. |
 | [Marth's Vineyard Bikepacking Route, Northeast Bikepacker ](https://www.northeastbikepacker.com/post/bikepacking-martha-s-vineyard) | A hidden gem. |
 | [Mud Pie and Ice Cream Float, Bikepacking Roots](https://bikepackingroots.org/project/sundaes-fundays-ice-cream-float/) | Peri-urban overnighters accessible via public transit on the MBTA. Routes utilize significant rail trail and short sections of singletrack. Short but challenging options for beginners.|
 | [Newburyport to Portland, East Coast Greenway Alliance ](https://greenway.org/) | Part of the Eastern Seaboard spanning East Coast Greenway, this section sticks to rail trails and pavement. |
 | [New England's Backyard, Urban Dirt](https://www.urbandirt.org/routes/new-englands-backyard) | Approximately 450 miles through central MA, CT and RI. The route was originally devised as a creditcard tour, but the mapping provided here lists possible camping options.|
 | [Vermont Super 8, Vermont Bikepackers](https://www.vermontbikepackers.org/gd) | New England's most popular 'Grand Depart' style bikepacking adventure. Features some of Vermont's most rugged 'Class IV roads. Ride the 650+ mile full 8, the 275 mile North Lobe, or the 380 mile South Lobe.  |
 | [Vermont XL (VTXL), bikepacking.com](https://bikepacking.com/routes/vtxl/) | A ribbon of continuous dirt from the Canada border south to Massachusetts. Incredible gravel riding the whole way.|
+| [Cross Connecticut Trail, bikepacking.com, Dirtbag Machine Works](https://dirtbagmachineworks.blogspot.com/p/xct-west.html) | Winding dirt tracks from New Haven to the Mass border. Hilly and remote, any bike will feel like the wrong choice. |
 
 </div>
 
