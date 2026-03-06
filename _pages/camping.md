@@ -37,6 +37,7 @@ Connecticut has a standing 'No Turn Away' policy for hikers and bikers at DEER c
 <object data="../assets/images/CT_DEERPolicy_Procedure 406_Camping - Emergency Stopovers.pdf" width="100" height="80" type='application/pdf'></object>
 
 ### Maine
+Camping, included dispersed camping, is broadly allowed in Maine National Forests and private forest lands including the North Maine Woods. HOWEVER, cycling is NOT allowed anywhere on North Maine Woods lands/roads, in KI Jo Mary Forest, or on the Golden Road. In addition, biking is not allowed on Nature Conservancy land in the Debsconeag Lake Area. As a result these areas are effectively off-limits for bikepackers and cyclotourists. We've compilied a list of state park campgrounds and other public camping locations that should be accessible via bike in the RideWithGPS collection, below.    
 <iframe src="https://ridewithgps.com/embeds?type=route&id=53292975&hideSurface=true" style="width: 1px; min-width: 100%; height: 550px; border: none;" scrolling="no"></iframe>
 
 ### Massachusetts
