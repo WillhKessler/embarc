@@ -42,7 +42,7 @@ organization_row:
     url: "organizations/#adirondacks-bikepacking"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/lichenbiketours.png
+  - image_path: /assets/images/lichenbiketours.jpg
     title: "Lichen Bike Tours"
     excerpt: "A Hudson, NY route guiding company with guided trips in the Taconic Mountains and beyond"
     url: "organizations/#lichen-bike-tours"
